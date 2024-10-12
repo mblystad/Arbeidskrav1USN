@@ -57,5 +57,6 @@ if oversikt.lower() == "ja":
             f"Du betaler {elbom}kr for bompasseringer, {aarsavgift}kr i trafikkforsikringsavgift, \nog {el_drivstoff}kr for lading.")
         print("Lykke til med bilkjøp!")
 else:
+    # Avskjedsmelding for å si ifra om at programmet er ferdig.
     print("Lykke til med bilkjøp!")
 
